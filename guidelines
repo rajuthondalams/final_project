@@ -1,0 +1,9 @@
+USE SECURE NETWORK
+USE HIGH VERSION
+Once you decide on building a browser, check out on some of the popular web browser engines that can help you build one. It is going to be absolutely insane to try and writing everything from the scratch including the rendering engine. To give an example, even Microsoft, Opera & Chrome started off building using Mosaic/Webkit rendering engines.
+
+Then, decide on the minimum features that you would like to implement. Read through documentations of some of the popular engines such as Chromium to get better understanding of how things work.
+
+You will need a shell, an interpreter, a rendering engine, datastore and last but not the least, a distributed installer to get it out to the world. That is kind of a high level of the components. Obviously when you dig in deep, you will find more and more interesting and challenging stuff. Non-functional requirements also will include performance, security, managing updates/patches etc., for which you will have to account continuous Development efforts. It wouldn't be a bad idea to have 2-3 Devs along with you to complete the Dev effort in a short span of time instead of doing it all by yourself (you may take almost an year to get the basic thing out)
+
+Good Luck!
